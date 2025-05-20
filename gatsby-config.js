@@ -13,7 +13,7 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/imnix215`,
     // Optional: LinkedIn account URL
-    //linkedin: `https://github.com/imnix215/devfolio`,
+    linkedin: `https://www.linkedin.com/in/xenia-joi-buganan-73b49b196`,
     // Content of the About Me section
     about: `Hi, I'm Zen — a .NET developer who loves turning coffee into code. I build web apps and chatbot solutions using C#, Angular, and Azure. I've led teams, mentored new devs, and occasionally steal bugs from teammates just to fix them faster (don't tell!). Always learning, always leveling up.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
