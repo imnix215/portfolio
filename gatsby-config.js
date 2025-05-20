@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Zen Buganan | Application Developer`,
     // Description that goes under your name in main bio
-    description: `Hi, I'm Zen — a .NET developer who loves turning coffee into code. I build web apps and chatbot solutions using C#, Angular, and Azure. I've led teams, mentored new devs, and occasionally steal bugs from teammates just to fix them faster (don't tell!). Always learning, always leveling up.`,
+    description: `An application developer from Philippines with at least 32 months of experience building full-stack web apps and chatbot solutions.`,
     // Optional: Twitter account handle
     //author: `@imnix215`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     //linkedin: `https://github.com/imnix215/devfolio`,
     // Content of the About Me section
-    //about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Hi, I'm Zen — a .NET developer who loves turning coffee into code. I build web apps and chatbot solutions using C#, Angular, and Azure. I've led teams, mentored new devs, and occasionally steal bugs from teammates just to fix them faster (don't tell!). Always learning, always leveling up.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     //projects: [
       //{
