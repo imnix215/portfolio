@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://imnix215.netlify.app/`,
+    siteUrl: `https://zenbuganan.netlify.app/`,
     // Your Name
     name: 'Zen Buganan',
     // Main Site Title
