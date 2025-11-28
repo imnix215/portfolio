@@ -35,17 +35,17 @@ module.exports = {
     experience: [
       {
         name: 'Accenture Inc. — Application Developer (Analyst), December 2023 - February 2025',
-        description: 'Delivered multiple AI-enabled chatbot solutions ahead of schedule while maintaining high deployment stability and supporting enhancements to legacy systems through automation.',
+        description: 'Develop, deploy, and maintain enterprise chatbots in Microsoft Teams— including solutions built with Microsoft Copilot Studio—to automate internal processes and improve employee support. Centralize chatbot code repositories and implement automated CI/CD pipelines in Azure DevOps to streamline deployment.',
         
       },
       {
         name: 'Accenture Inc. — Application Developer (Associate), July 2022 - December 2023',
-        description: 'Recognized for exceptional ownership of the chatbot QnA Maker environment, leading to system stability and team-wide process improvements that resulted in annual automation savings of $38,133.50.',
+        description: 'Manage and curate Azure Cognitive Services QnA databases, including nearly 1,000 prompts, while developing APIs and UI enhancements to improve mailbox validation, visibility, and system accuracy. Build chatbot prototypes and client-specific Service Lines to enable self-service automation, while mentoring junior developers and supporting best practices within the Scrum team.',
         
       },
       {
         name: 'Systemantech Inc. — Junior Desktop Support Engineer, September 2021 - July 2022',
-        description: 'Configured and deployed approximately 1,000 desktops and VoIP phones across three offices, ensuring seamless agent operations and consistent IT support coverage.',
+        description: 'Configured and deploy desktops and VoIP phones across three offices, ensuring seamless agent operations and consistent IT support coverage.',
         
       },
     ],
