@@ -7,13 +7,13 @@ module.exports = {
     // Main Site Title
     title: `Zen Buganan | Application Developer`,
     // Description that goes under your name in main bio
-    description: `An application developer from Philippines with at least 32 months of experience building full-stack web apps and chatbot solutions.`,
-    // Optional: Twitter account handle
-    //author: `@imnix215`,
+    description: `Software Engineer`,
+    // Optional: Resume
+    resume: `src/images/XeniaJoi_Buganan_SoftwareAIEngineer.pdf`,
     // Optional: Github account URL
     github: `https://github.com/imnix215`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/xenia-joi-buganan-73b49b196`,
+    linkedin: `https://www.linkedin.com/in/xjbuganan`,
     // Content of the About Me section
     about: `Hi, I'm Zen — a .NET developer who loves turning coffee into code. I build web apps and chatbot solutions using C#, Angular, and Azure. I've led teams, mentored new devs, and occasionally steal bugs from teammates just to fix them faster (don't tell!). Always learning, always leveling up.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
@@ -26,21 +26,27 @@ module.exports = {
       //},
     //],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
+    education: [
+      {
+        name: 'STI College Las Piñas',
+        description: 'Bachelor\'s Degree in Information Technology, November 2019'
+      }
+    ],
     experience: [
       {
-        name: 'Accenture Inc.',
-        description: 'Application Developer (Analyst), December 2023 - February 2025',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Accenture Inc. — Application Developer (Analyst), December 2023 - February 2025',
+        description: 'Delivered multiple AI-enabled chatbot solutions ahead of schedule while maintaining high deployment stability and supporting enhancements to legacy systems through automation.',
+        
       },
       {
-        name: 'Accenture Inc.',
-        description: 'Application Developer (Associate), July 2022 - December 2023',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Accenture Inc. — Application Developer (Associate), July 2022 - December 2023',
+        description: 'Recognized for exceptional ownership of the chatbot QnA Maker environment, leading to system stability and team-wide process improvements that resulted in annual automation savings of $38,133.50.',
+        
       },
       {
-        name: 'Systemantech Inc.',
-        description: 'Junior Desktop Support Engineer, September 2021 - July 2022',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Systemantech Inc. — Junior Desktop Support Engineer, September 2021 - July 2022',
+        description: 'Configured and deployed approximately 1,000 desktops and VoIP phones across three offices, ensuring seamless agent operations and consistent IT support coverage.',
+        
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
