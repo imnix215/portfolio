@@ -2,6 +2,7 @@ import { Link } from 'gatsby';
 import get from 'lodash/get';
 import React from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
+import resumeLink from '../../images/XeniaJoi_Buganan_SoftwareAIEngineer.pdf'
 
 const classes = {
   wrapper: 'block mb-6 md:flex',
