@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Zen Buganan | Application Developer`,
     // Description that goes under your name in main bio
-    description: `Software Engineer`,
+    description: `Full-Stack Engineer | .NET & Angular Specialist`,
     // Optional: Resume
     resume: `src/images/XeniaJoi_Buganan_SoftwareAIEngineer.pdf`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/xjbuganan`,
     // Content of the About Me section
-    about: `Hi, I'm Zen — a .NET developer who loves turning coffee into code. I build web apps and chatbot solutions using C#, Angular, and Azure. I've led teams, mentored new devs, and occasionally steal bugs from teammates just to fix them faster (don't tell!). Always learning, always leveling up.`,
+    about: `Analyst-level Full-Stack Engineer with a track record of saving $38K+ annually through enterprise automation. Certified in Azure, Security, and Power Platform, blending technical backend logic with a TESDA-certified eye for UI/UX design.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     //projects: [
       //{
@@ -35,7 +35,7 @@ module.exports = {
     experience: [
       {
         name: 'Accenture Inc. — Application Developer (Analyst), December 2023 - February 2025',
-        description: 'Develop, deploy, and maintain enterprise chatbots in Microsoft Teams— including solutions built with Microsoft Copilot Studio—to automate internal processes and improve employee support. Centralize chatbot code repositories and implement automated CI/CD pipelines in Azure DevOps to streamline deployment.',
+        description: 'Lead developer for enterprise AI chatbots. Successfully refactored the <strong>Mailbox Increase API</strong> using .NET and OAuth 2.0, resulting in significant overhead reduction.',
         
       },
       {
